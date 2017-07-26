@@ -5,7 +5,7 @@ public class asd {
 		
 		System.out.println("ss");
 		System.out.println("sss");	
-		System.out.println("ssd");
+		System.out.println("sssafasd");
 		System.out.println("ss");
 	}
 }
